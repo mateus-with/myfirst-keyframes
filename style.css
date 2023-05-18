@@ -1,0 +1,40 @@
+body {
+    /* coloquei um fundo para a pagina */
+        background: #88a983;
+}
+
+img {
+    /* defini uma largura para o campo (tentando ser responsivo) */
+        margin-left: 10%;
+        width: 80%;
+}
+
+.cristianinho {
+    /* defini o tamanho do cristiano */
+        width: 10%;
+    
+     /* defini o padding inicial do cristiano */
+        padding-left: 10%;
+
+    /* criei a animação para o cristiano */ 
+        /* animation: cristianinho 10s infinite; */  
+         animation: cristianinho 1s infinite;
+
+    /* coloquei a posição absolute para ele sobrepor o campo */    
+    position: absolute;
+}
+
+/* criei o keyframe com % para *tentar* ser responsivo :D */    
+    @keyframes cristianinho {
+        0% {top:5%;left:10%;}
+        10% {top:10%;left:20%;}
+        20% {top:15%;left:30%;}
+        30% {top:20%;left:40%;}
+        40% {top:40%;left:40%;}
+        50% {top:50%;left:50%;}
+        60% {top:70%;left:40%;}
+        70% {top:50%;left:10%;}
+        80% {top:75%;left:5%;}
+        90% {top:60%;left:5%;}
+        100% {top:5%;left:10%;}
+}
