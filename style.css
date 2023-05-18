@@ -10,6 +10,7 @@ img {
 }
 
 .campo {
+    margin-left: 10%;
     position: absolute;
     width: 80%;
 }
