@@ -11,10 +11,3 @@ Primeiro projeto envolvendo keyframe para matéria de DW1
 
 ## 🚀 Sobre mim
 Aluno de Desenvolvimento de Software iniciante pela FATEC. 
-
-# myfirst-keyframes
-# myfirst-keyframes
-# myfirst-keyframes
-# myfirst-keyframe
-# myfirst-keyframe
-# myfirst-keyframes
