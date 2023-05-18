@@ -9,6 +9,11 @@ img {
         width: 80%;
 }
 
+.campo {
+    position: absolute;
+    width: 80%;
+}
+
 .cristianinho {
     /* defini o tamanho do cristiano */
         width: 10%;
